@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./HeroSection.css";
 import img from "../assets/img.jpg";
-import cv from '../assets/DpkRnResume.pdf'
+import cv from '../assets/Vivek Nov 24 new cv.pdf'
 
 
 function HeroSectionTwo() {
@@ -117,13 +117,13 @@ function HeroSectionTwo() {
                  lg:mt-9 
                   exs:max-sm:pt-5  md:max-lg:pt-9 xl:pt-12"
             >
-              <a href="https://github.com/DpkRn">
+              <a href="https://github.com/Vivekmandal07">
                 <i className="bx bxl-github"></i>
               </a>
               <a href="">
                 <i className="bx bxl-facebook"></i>
               </a>
-              <a href="http://www.linkedin.com/in/deepak-kumar-b3181a236">
+              <a href="https://www.linkedin.com/in/mr-vivek-mandal">
                 <i className="bx bxl-linkedin"></i>
               </a>
               <a href="">
