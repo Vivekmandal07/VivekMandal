@@ -53,7 +53,7 @@ function HeroSectionTwo() {
                   lg:mt-10"
               >
                 {" "}
-                Hi, i'm Deepak Kumar
+                Hi, This is Mr.Vivek Mandal
               </h1>
             </div>
 
